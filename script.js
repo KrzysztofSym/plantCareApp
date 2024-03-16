@@ -16,3 +16,7 @@ document.querySelector('.fa-bars').addEventListener('click', () => {
         card1.classList.add('active');
     }
 })
+
+signUp.addEventListener('click', () => {
+    alert('Now you can Log in');
+});
